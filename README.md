@@ -1,1 +1,2 @@
-# Projects
+# Data Science Projects
+## This repository contains a collection of Data Science projects, including data analysis, modeling, and machine learning applications. Each project includes the source code, datasets used, and the results obtained. The purpose of this repository is to provide practical examples of Data Science applications and serve as an educational resource for developers and enthusiasts in the field.
